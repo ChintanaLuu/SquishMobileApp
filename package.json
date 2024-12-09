@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "expo-constants": "^17.0.3",
+    "firebase": "^11.0.2",
+    "firebase-admin": "^13.0.1",
+    "firebase-functions": "^6.1.1",
+    "react-native-dotenv": "^3.4.11"
+  }
+}
